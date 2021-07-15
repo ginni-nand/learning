@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.learnings
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, gradle, http-client, kotest, kotlin, kotlin-application, logback, netty-server, readme, security, security-annotations, security-jwt, shade, yaml]
